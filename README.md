@@ -14,7 +14,7 @@
 
 ## How to use
 
-1）下载release下的二进制文件，直接在工作目录执行。
+1）下载release(https://github.com/1K0ng/FileRecover_Cs/releases/tag/python) 下的二进制文件，直接在工作目录执行。
 
 2）在工作目录下运行py脚本
 
