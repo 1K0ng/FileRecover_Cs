@@ -1,6 +1,6 @@
 # FileRecover_Cs
 
-整理cobalt strike托管的文件
+快速整理cobalt strike中Downloads的文件
 
 ## To-do
 
